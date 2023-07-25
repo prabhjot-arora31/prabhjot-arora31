@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @prabhjot-arora31
-- 👀 I’m interested in Programming Languages
-- 🌱 I’m currently Persuing BCA at SFS College
-- 📫 You Can reach me at my email id:prabhjotarora99@gmail.com
-
-<!---
-prabhjot-arora31/prabhjot-arora31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello World.
+Welcome To my GitHub Profile.
+I am a passionate Self Taught Developer with keen interest in web and app Development.
+I am a person with Problem Solver and a creative thinker.
+I have done a lot of projects in web and app development and my GitHub Profile have my all project records.
+Thank you for visiting my GitHub Profile.
